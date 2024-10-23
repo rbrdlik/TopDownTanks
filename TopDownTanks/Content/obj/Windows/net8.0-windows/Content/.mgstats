@@ -1,1 +1,3 @@
 Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Users/roman.brdlik/Desktop/TopDownTanks/TopDownTanks/Content/background.png","C:/Users/roman.brdlik/Desktop/TopDownTanks/TopDownTanks/Content/bin/Windows/Content/background.xnb","TextureProcessor","Texture2DContent",227110,5529685,0,2219335
+"C:/Users/roman.brdlik/Desktop/TopDownTanks/TopDownTanks/Content/tank.png","C:/Users/roman.brdlik/Desktop/TopDownTanks/TopDownTanks/Content/bin/Windows/Content/tank.xnb","TextureProcessor","Texture2DContent",45744,137685,0,2442529

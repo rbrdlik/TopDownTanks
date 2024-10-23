@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mrdon\\RiderProjects\\TopDownTanks\\TopDownTanks\\TopDownTanks.csproj": {}
+    "C:\\Users\\roman.brdlik\\Desktop\\TopDownTanks\\TopDownTanks\\TopDownTanks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mrdon\\RiderProjects\\TopDownTanks\\TopDownTanks\\TopDownTanks.csproj": {
+    "C:\\Users\\roman.brdlik\\Desktop\\TopDownTanks\\TopDownTanks\\TopDownTanks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mrdon\\RiderProjects\\TopDownTanks\\TopDownTanks\\TopDownTanks.csproj",
+        "projectUniqueName": "C:\\Users\\roman.brdlik\\Desktop\\TopDownTanks\\TopDownTanks\\TopDownTanks.csproj",
         "projectName": "TopDownTanks",
-        "projectPath": "C:\\Users\\mrdon\\RiderProjects\\TopDownTanks\\TopDownTanks\\TopDownTanks.csproj",
-        "packagesPath": "C:\\Users\\mrdon\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mrdon\\RiderProjects\\TopDownTanks\\TopDownTanks\\obj\\",
+        "projectPath": "C:\\Users\\roman.brdlik\\Desktop\\TopDownTanks\\TopDownTanks\\TopDownTanks.csproj",
+        "packagesPath": "C:\\Users\\roman.brdlik\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\roman.brdlik\\Desktop\\TopDownTanks\\TopDownTanks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mrdon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\roman.brdlik\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

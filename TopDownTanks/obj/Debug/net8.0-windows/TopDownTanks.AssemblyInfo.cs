@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TopDownTanks")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4cbece29d90211ace47cbefc9b6157ec51dafbe9")]
 [assembly: System.Reflection.AssemblyProductAttribute("TopDownTanks")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TopDownTanks")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
