@@ -4,8 +4,8 @@
   <Platform>Windows</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/roman.brdlik/Desktop/TopDownTanks/TopDownTanks/Content/tank.png</File>
-    <File>C:/Users/roman.brdlik/Desktop/TopDownTanks/TopDownTanks/Content/background.png</File>
+    <File>C:/Users/mrdon/RiderProjects/TopDownTanks/TopDownTanks/Content/tank.png</File>
+    <File>C:/Users/mrdon/RiderProjects/TopDownTanks/TopDownTanks/Content/background.png</File>
   </SourceFiles>
   <DestFiles>
     <File>tank.png</File>
